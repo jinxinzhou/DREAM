@@ -35,11 +35,11 @@
 </div>
 
 We present **DREAM**, a novel training framework representing **D**iffusion **R**ectification and **E**stimation-**A**daptive **M**odels, requiring minimal code changes (just three lines) yet significantly enhancing the alignment of training with sampling in diffusion models. DREAM features two components: diffusion rectification, which adjusts training to reflect the sampling process, and estimation adaptation, which balances perception against distortion. When applied to image super-resolution (SR), DREAM adeptly navigates the tradeoff between minimizing distortion and preserving high image quality. Experiments demonstrate DREAM's superiority over standard diffusion-based SR methods, showing a 2 to 3x faster training convergence and a 10 to 20x reduction in necessary sampling steps to achieve comparable or superior results. We hope DREAM will inspire a rethinking of diffusion model training paradigms.
- 
-## Citing
-If you find our work helpful, please feel free to use the following BibTex entry:
+
+## Citation
+If you find our work helpful, please kindly cite our work:
 ```BibTeX
-@article{TODO,<br>
+@article{TODO,
     author = {TODO},
     title  = {TODO},
     joural = {ArXiv},
