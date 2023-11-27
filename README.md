@@ -1,5 +1,4 @@
 <p align="center">
-
   <h2 align="center"><b>DREAM</b>: Diffusion Rectification and Estimation-Adaptive Models</h2>
   <p align="center">
     <a style="text-decoration:none" href="https://scholar.google.com/citations?user=XR5CQJcAAAAJ">
@@ -26,8 +25,9 @@
     <sup>1</sup>Ohio State University &nbsp;&nbsp;&nbsp; <sup>2</sup>Microsoft
     <br>
     </br>
-  <a href="https://www.tianyuding.com/project-pages/DREAM/"><strong>Project Page</strong></a> | <a href="https://www.tianyuding.com/project-pages/DREAM/"><strong>Paper</strong></a>
+  <a href="https://www.tianyuding.com/projects/DREAM/"><strong>Project Page</strong></a> | <a href="https://www.tianyuding.com/project-pages/DREAM/"><strong>Paper</strong></a>
   </p>
+
 </p>
 <div align="center">
   <br>
