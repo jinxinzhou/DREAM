@@ -25,7 +25,7 @@
     <sup>1</sup>Ohio State University &nbsp;&nbsp;&nbsp; <sup>2</sup>Microsoft
     <br>
     </br>
-  <a href="https://www.tianyuding.com/projects/DREAM/"><strong>Project Page</strong></a> | <a href="https://www.tianyuding.com/project-pages/DREAM/"><strong>Paper</strong></a>
+  <a href="https://www.tianyuding.com/projects/DREAM/"><strong>Project Page</strong></a> | <a href="https://arxiv.org/abs/2312.00210"><strong>Paper</strong></a>
   </p>
 
 </p>
