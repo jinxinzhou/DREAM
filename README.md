@@ -39,10 +39,10 @@ We present **DREAM**, a novel training framework representing **D**iffusion **R*
 ## Citation
 If you find our work helpful, please kindly cite our work:
 ```BibTeX
-@article{TODO,
-    author = {TODO},
-    title  = {TODO},
-    joural = {ArXiv},
-    year   = {2023},
+@article{zhou2023dream,
+  title={DREAM: Diffusion Rectification and Estimation-Adaptive Models},
+  author={Zhou, Jinxin and Ding, Tianyu and Chen, Tianyi and Jiang, Jiachen and Zharkov, Ilya and Zhu, Zhihui and Liang, Luming},
+  journal={arXiv preprint arXiv:2312.00210},
+  year={2023}
 }
 ```
