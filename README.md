@@ -23,7 +23,7 @@
                      Luming Liang</a><sup>2,&dagger;</sup>
     <br>
     <sup>1</sup>Ohio State University &nbsp;&nbsp;&nbsp; <sup>2</sup>Microsoft
-    <br>
+    <br> <strong>CVPR 2024</strong>
     </br>
   <a href="https://www.tianyuding.com/projects/DREAM/"><strong>Project Page</strong></a> | <a href="https://arxiv.org/abs/2312.00210"><strong>Paper</strong></a>
   </p>
