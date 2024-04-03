@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "/local/scratch/zhou.3820/DREAM/sr3/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "-p", "val",
+                "-c", "config/sr_sr3_16_128.json",
+                "-gpu", "1",
+                "--order", "1",
+                "--name", "dream2",
+                "--resume", "/local/storage1/zhou.3820/Image-Super-Resolution-via-Iterative-Refinement/weights/sr3-face-p2-I960000"]
+        }
+    ]
+}
