@@ -1,6 +1,6 @@
 <TOC>
 
-# Implicit Diffusion Models for Continuous Super-Resolution
+# DREAM: Diffusion Rectification and Estimation-Adaptive Models (SR3 Face)
 
 This folder is built on an offical implementation of the paper "Image Super-Resolution via Iterative Refinement([SR3](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement))".
 
