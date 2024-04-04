@@ -62,5 +62,8 @@ Run the following command for the evaluation:
    python main.py -p val -c config/sr_sr3_16_128.json -gpu 0 --order 1 --resume path_to_weight_without_postfix_gen.pth
    ```
 
+## Some pretrained results
+The pretrained weights and log files can be found at [here](https://drive.google.com/drive/folders/18_lzrdwIrBJYIIi0dRPq7m8cVYjZOtHy)
+
 ## Acknowledgements
 This code is mainly built on [SR3](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement), [IDM](https://github.com/Ree1s/IDM).
