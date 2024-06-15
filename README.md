@@ -46,3 +46,14 @@ If you find our work helpful, please kindly cite our work:
   year={2023}
 }
 ```
+or
+```BibTeX
+@InProceedings{Zhou_2024_CVPR,
+    author    = {Zhou, Jinxin and Ding, Tianyu and Chen, Tianyi and Jiang, Jiachen and Zharkov, Ilya and Zhu, Zhihui and Liang, Luming},
+    title     = {DREAM: Diffusion Rectification and Estimation-Adaptive Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {8342-8351}
+}
+```
