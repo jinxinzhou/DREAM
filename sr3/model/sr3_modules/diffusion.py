@@ -195,7 +195,7 @@ class GaussianDiffusion(nn.Module):
                     if continous:
                         ret_img = torch.cat([ret_img, img_0.unsqueeze(0)], dim=0)
                     else:
-                        ret_img = img_0
+                        ret_img = img_t
         return ret_img
 
 
